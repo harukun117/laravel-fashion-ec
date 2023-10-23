@@ -65,4 +65,29 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # laravel-fashion-ec
-# laravel-fashion-ec
+## 概要
+laravelを勉強するために、作成したファッションECサイトです。
+
+自分のイラストのグッズを販売したいと思い、ECサイトを作ろうと思いました。
+
+Techpitの「LaravelとStripeを使った決済処理付き簡易ファッションECサイトを作ろう！！」という書籍で勉強して作成しました。
+
+https://www.amazon.co.jp/Laravel%E3%81%A7Stripe%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E6%B1%BA%E6%B8%88%E5%87%A6%E7%90%86%E4%BB%98%E3%81%8D%E7%B0%A1%E6%98%93%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3EC%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%81-Laravel%E3%81%A8%E6%B1%BA%E6%B8%88%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E3%81%82%E3%82%8BStripe%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E3%80%81%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3EC%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%E3%82%92%E5%AD%A6%E3%81%B6-Techpit%E3%83%96%E3%83%83%E3%82%AF%E3%82%B9-Techpit%E7%B7%A8%E9%9B%86%E9%83%A8-ebook/dp/B092ZVWM9P/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=15HYTKVBFNG5R&keywords=laravel%E3%81%A8stripe&qid=1698053153&sprefix=laravel%E3%81%A8stripe%2Caps%2C166&sr=8-1
+
+## 使用技術
+・PHP
+
+・Laravel
+
+・Stripe
+
+・Bootstrap
+
+・Sass
+
+・Docker
+
+・Laradock
+
+
+
